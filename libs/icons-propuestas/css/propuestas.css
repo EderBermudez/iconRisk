@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'propuestas';
+  src: url('../font/propuestas.eot?30358361');
+  src: url('../font/propuestas.eot?30358361#iefix') format('embedded-opentype'),
+       url('../font/propuestas.woff2?30358361') format('woff2'),
+       url('../font/propuestas.woff?30358361') format('woff'),
+       url('../font/propuestas.ttf?30358361') format('truetype'),
+       url('../font/propuestas.svg?30358361#propuestas') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'propuestas';
+    src: url('../font/propuestas.svg?30358361#propuestas') format('svg');
+  }
+}
+*/
+.icon-propuestas, [class*=" icon-"]:before {
+  font-family: "propuestas";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px !important;
+}
+
+.icon-prop2:before { content: '\e800'; } /* '' */
+.icon-prop3:before { content: '\e801'; } /* '' */
+.icon-prop4:before { content: '\e802'; } /* '' */
+.icon-prop5:before { content: '\e803'; } /* '' */
+.icon-prop1:before { content: '\e804'; } /* '' */

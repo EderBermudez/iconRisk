@@ -1,0 +1,33 @@
+[class^="cpa-file-"], [class*=" cpa-file-"] {
+  font-family: 'cpa-files';
+  font-style: normal;
+  font-weight: normal;
+
+  /* fix buttons height */
+  line-height: 1em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.cpa-file-4.0 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf800;&nbsp;'); }
+.cpa-file-dll { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf801;&nbsp;'); }
+.cpa-file-doc { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf802;&nbsp;'); }
+.cpa-file-html { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf803;&nbsp;'); }
+.cpa-file-exe { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf804;&nbsp;'); }
+.cpa-file-img { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf805;&nbsp;'); }
+.cpa-file-jpg { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf806;&nbsp;'); }
+.cpa-file-key { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf807;&nbsp;'); }
+.cpa-file-mp3 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf808;&nbsp;'); }
+.cpa-file-mov { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf809;&nbsp;'); }
+.cpa-file-mp4 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf80a;&nbsp;'); }
+.cpa-file-pdf { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf80b;&nbsp;'); }
+.cpa-file-png { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf80c;&nbsp;'); }
+.cpa-file-ppt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf80d;&nbsp;'); }
+.cpa-file-rar { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf80e;&nbsp;'); }
+.cpa-file-sat { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf80f;&nbsp;'); }
+.cpa-file-sql { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf810;&nbsp;'); }
+.cpa-file-txt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf811;&nbsp;'); }
+.cpa-file-xls { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf812;&nbsp;'); }
+.cpa-file-xml { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf813;&nbsp;'); }
+.cpa-file-zip { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf814;&nbsp;'); }
